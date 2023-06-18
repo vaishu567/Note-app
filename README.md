@@ -1,2 +1,3 @@
-# Note-app
-It is a pure JavaScript Project.
+## Note-app
+
+### It is a pure JavaScript Project.
